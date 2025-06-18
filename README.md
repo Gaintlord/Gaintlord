@@ -1,5 +1,5 @@
 # 👋🏻Hi, I'm Chandra Kishor Jha
-👨🏼‍💻 Software Engineer working my way past to the null pointer<br>👨🏼‍🎓 Studied Computer Science at Dr. Abdul Kalam Technical University, Lucknow<br>🖥️ Learning more about Web Development every single day<br>⚡ Fun fact "There was a B, long before there was a C"
+👨🏼‍💻 Software Engineer working my way past to the null pointer<br>👨🏼‍🎓 Studied Computer Science at Dr. Abdul Kalam Technical University, Lucknow<br>🖥️ Learning more about Web Development every single day<br>⚡ Fun fact "There was the B, long before there was the C"
 
 
 
